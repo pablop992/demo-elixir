@@ -1,21 +1,11 @@
-# Subjectgrades
+# A little Elixir Demo
 
-**TODO: Add description**
+Subject grades microservice built using Elixir, with Ecto as Data Access tool, and Plug for API publish.
 
-## Installation
+Feel free to extend the feature set as you want.
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `subjectgrades` to your list of dependencies in `mix.exs`:
+### **Some interesing resources (TODO)** ###
 
-```elixir
-def deps do
-  [
-    {:subjectgrades, "~> 0.1.0"}
-  ]
-end
-```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/subjectgrades](https://hexdocs.pm/subjectgrades).
-
+* https://elixirschool.com/
+* https://inquisitivedeveloper.com/tag/lwm-elixir/
+* https://www.slideshare.net/nicolascarlo1/hexagonal-architecture-elixir
